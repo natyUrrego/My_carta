@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My carta</string>
+    <string name="title_activity_sedes">SedesActivity</string>
+    <string name="menu_activity">Bienvenidos a mi restaurante</string>
+    <string name="menu_entrada">Conoce nuestras deliciosas entradas</string>
+    <string name="menu_platos">Prueba nuestros platos</string>
+    <string name="menu_bebidas">Prueba nuestras bebidas</string>
+
+
+
+    <string name="menu_reserva">Bienvenidos a mi restaurante</string>
+    <string name="reserva_sede">Sedes</string>
+    <string name="reserva_personas">Bienvenidos a mi restaurante</string>
+    <string name="reserva_fecha">Bienvenidos a mi restaurante</string>
+    <string name="reserva_hora">Bienvenidos a mi restaurante</string>
+
+</resources>
